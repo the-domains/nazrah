@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Our Mission
-datePublished: '2016-05-30T15:15:43.573Z'
-dateModified: '2016-05-30T13:42:51.739Z'
+datePublished: '2016-05-30T15:17:25.831Z'
+dateModified: '2016-05-30T15:15:54.567Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-30-our-mission.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-30-our-mission.md
 url: our-mission/index.html
 _type: Article
 
