@@ -1,20 +1,24 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-30T13:12:44.067Z'
-dateModified: '2016-05-30T13:12:28.140Z'
+datePublished: '2016-05-30T13:18:49.461Z'
+dateModified: '2016-05-30T13:18:25.757Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-30-nazrah-films.md
 authors: []
 publisher: null
 starred: true
-sourcePath: _posts/2016-05-30-nazrah-films.md
-url: nazrah-films/index.html
-_type: Article
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccac95e2-a0d3-4516-b239-b33b0c70b5ad.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57d9e7c1-1cb6-4e3b-95bb-45007bcd1b3f.jpg)
+
+Nazrah aspires to bridge the
+gap between Independent
+filmmakers in Egypt and across
+the world.
