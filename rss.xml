@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Nazrah Films]]></title>
         <description><![CDATA[Nazrah Films]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nazrah/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 13:50:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 May 2016 13:53:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nazrah/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Nazrah Films was founded right after the Egyptian Revolution against the old regime in 25th of January 2011. With the changes swiping the Middle Eastern society and especially in Egypt, new rights and freedoms are emerging. Independent Cinema strives to take place in the new democratic Egypt, Searching for the true meaning and practice of democracy, also as a counter track to the monopoly of the commercial Cinema that do not represent the new generation of filmmakers or the new democratized Egyptian society. </p>]]></description>
-            <link>undefinednazrah-films-was-founded-right-after-the-egyptian-revolution/index.html</link>
+            <link>https://thegrid.ai/nazrah/nazrah-films-was-founded-right-after-the-egyptian-revolution/index.html</link>
             <guid isPermaLink="false">e7a328fa-d556-4a02-a577-c877be28f98e</guid>
-            <pubDate>Mon, 30 May 2016 13:50:22 GMT</pubDate>
+            <pubDate>Mon, 30 May 2016 13:53:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
