@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Nazrah Films was founded right after the Egyptian Revolution against the old regime in 25th of January 2011. With the changes swiping the Middle Eastern society and especially in Egypt, new rights and freedoms are emerging. Independent Cinema strives to take place in the new democratic Egypt, Searching for the true meaning and practice of democracy, also as a counter track to the monopoly of the commercial Cinema that do not represent the new generation of filmmakers or the new democratized Egyptian society. '
-datePublished: '2016-06-01T11:30:02.963Z'
-dateModified: '2016-06-01T11:29:47.598Z'
+datePublished: '2016-06-01T12:27:34.382Z'
+dateModified: '2016-06-01T12:26:34.943Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-30-nazrah-films-was-founded-right-after-the-egyptian-revolution.md
