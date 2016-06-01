@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Our goal is to support independent Cinema while reaching out to the widest possible audience, to encourage individual and authentic voices in film while exploring shared initiatives and ideas on a basis of democracy, equality, and freedom of speech.'
-datePublished: '2016-06-01T11:13:04.099Z'
-dateModified: '2016-06-01T11:08:52.252Z'
+datePublished: '2016-06-01T11:19:10.885Z'
+dateModified: '2016-06-01T11:18:44.813Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-01-our-mission.md
 authors: []
 publisher: null
@@ -18,6 +20,6 @@ _type: Article
 
 ---
 # Our Mission
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89f50c82-f040-496a-a566-80be2eaca5b5.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/93cf4cf7b9a30f79590deb327700d8dfd5b6e617.jpg)
 
 Our goal is to support independent Cinema while reaching out to the widest possible audience, to encourage individual and authentic voices in film while exploring shared initiatives and ideas on a basis of democracy, equality, and freedom of speech.
