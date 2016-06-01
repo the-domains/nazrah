@@ -4,11 +4,18 @@
         <description><![CDATA[Nazrah Films]]></description>
         <link>http://nazrahfilms.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 13:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 13:43:14 GMT</lastBuildDate>
         <atom:link href="http://nazrahfilms.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Our Portfolio: ]]></title>
+            <description><![CDATA[<article><h1>Our Portfolio: </h1><p>"The saga of a poor housemaid in the aftermath of the Tahrir Square uprising brims over with uncomfortable truths and irony, boldly questioning the outcome of the revolution. Led by an angelic Menna Shalabi in the main role, the film is absorbing in a daytime drama sort of way: One longs for the maid and her equally poor husband Aly to find happiness, while knowing that even worse misfortunes are likely to befall them before the curtains close. Despite this and allowing for an overlong running time, it is the Egyptian art film of the moment, and its female viewpoint should help it find limited release, with more festival support following its Dubai bow." By http://www.hollywoodreporter.com/ .</p></article>]]></description>
+            <link>http://nazrahfilms.com/our-portfolio/index.html</link>
+            <guid isPermaLink="false">b0981fcf-38d5-4625-b0bf-ad20068014a8</guid>
+            <pubDate>Wed, 01 Jun 2016 13:43:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Contact Us]]></title>
-            <description><![CDATA[<article><h1>Contact Us</h1><p>Contact Us:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e6ed3e3-98a5-4258-be25-46fdd9ffc360.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Contact Us</h1><p>Contact Us:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbc448ef65bb0d64ff97fea909b17935b99d53c5.jpg"></article>]]></description>
             <link>http://nazrahfilms.com/contact-us/index.html</link>
             <guid isPermaLink="false">455cb9d6-77c7-42d5-81e5-9818c353c068</guid>
             <pubDate>Wed, 01 Jun 2016 13:37:47 GMT</pubDate>
@@ -40,13 +47,6 @@
             <link>http://nazrahfilms.com/who-we-are/index.html</link>
             <guid isPermaLink="false">827d1816-8ee4-453b-ac38-c18fb4c9722f</guid>
             <pubDate>Wed, 01 Jun 2016 13:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our Portfolio: ]]></title>
-            <description><![CDATA[<article><h1>Our Portfolio: </h1><p>"The saga of a poor housemaid in the aftermath of the Tahrir Square uprising brims over with uncomfortable truths and irony, boldly questioning the outcome of the revolution. Led by an angelic Menna Shalabi in the main role, the film is absorbing in a daytime drama sort of way: One longs for the maid and her equally poor husband Aly to find happiness, while knowing that even worse misfortunes are likely to befall them before the curtains close. Despite this and allowing for an overlong running time, it is the Egyptian art film of the moment, and its female viewpoint should help it find limited release, with more festival support following its Dubai bow." By http://www.hollywoodreporter.com/ .</p></article>]]></description>
-            <link>http://nazrahfilms.com/our-portfolio/index.html</link>
-            <guid isPermaLink="false">b0981fcf-38d5-4625-b0bf-ad20068014a8</guid>
-            <pubDate>Wed, 01 Jun 2016 13:22:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
