@@ -2,13 +2,16 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: Nazrah aspires to bridge the gap between Independent filmmakers in Egypt and across the world.
-datePublished: '2016-05-30T13:52:19.954Z'
-dateModified: '2016-05-30T13:52:12.750Z'
+datePublished: '2016-06-01T12:37:39.845Z'
+dateModified: '2016-06-01T12:37:39.327Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-30-nazrah-films.md
 authors: []
 publisher: null
