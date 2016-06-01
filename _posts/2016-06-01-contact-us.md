@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Contact Us:'
-datePublished: '2016-06-01T18:50:47.256Z'
-dateModified: '2016-06-01T18:48:21.191Z'
+datePublished: '2016-06-01T20:21:58.566Z'
+dateModified: '2016-06-01T20:21:55.654Z'
 title: Contact Us
 author: []
 sourcePath: _posts/2016-06-01-contact-us.md
@@ -24,4 +24,5 @@ Contact Us:
 
 Nazrah Films Address: Number 47, Road 105, Maadi, Cairo, Egypt.  
 Tel: +2 010 01457588  
-E-mail: halakhalil\_eg@yahoo.com
+E-mail: Hala@Nazrahfilms.com  
+E-mail: Taghrid@Nazrahfilms.com
