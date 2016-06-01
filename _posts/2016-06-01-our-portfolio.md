@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '"The saga of a poor housemaid in the aftermath of the Tahrir Square uprising brims over with uncomfortable truths and irony, boldly questioning the outcome of the revolution. Led by an angelic Menna Shalabi in the main role, the film is absorbing in a daytime drama sort of way: One longs for the maid and her equally poor husband Aly to find happiness, while knowing that even worse misfortunes are likely to befall them before the curtains close. Despite this and allowing for an overlong running time, it is the Egyptian art film of the moment, and its female viewpoint should help it find limited release, with more festival support following its Dubai bow." By http://www.hollywoodreporter.com/ .'
-datePublished: '2016-06-01T14:06:03.827Z'
-dateModified: '2016-06-01T14:05:47.924Z'
+datePublished: '2016-06-01T14:06:59.630Z'
+dateModified: '2016-06-01T14:06:08.971Z'
 title: 'Our Portfolio: '
 author: []
 sourcePath: _posts/2016-06-01-our-portfolio.md
@@ -67,7 +67,7 @@ Recognition:
 ‐ Best director (catholic center film festival).   
 ‐ Best first work (Egyptian film critics association).
 
-# The kite -- Short ,(Tiri ya Tayara), 1997\.
+# The kite -- Short 1997,(Tiri ya Tayara).
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86289a19-b558-495d-9dd8-08e9e5183c70.jpg)
 
 Recognition  
