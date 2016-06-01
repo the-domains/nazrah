@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '"The saga of a poor housemaid in the aftermath of the Tahrir Square uprising brims over with uncomfortable truths and irony, boldly questioning the outcome of the revolution. Led by an angelic Menna Shalabi in the main role, the film is absorbing in a daytime drama sort of way: One longs for the maid and her equally poor husband Aly to find happiness, while knowing that even worse misfortunes are likely to befall them before the curtains close. Despite this and allowing for an overlong running time, it is the Egyptian art film of the moment, and its female viewpoint should help it find limited release, with more festival support following its Dubai bow." By http://www.hollywoodreporter.com/ .'
-datePublished: '2016-06-01T14:09:16.362Z'
-dateModified: '2016-06-01T14:09:05.829Z'
+datePublished: '2016-06-01T17:11:15.254Z'
+dateModified: '2016-06-01T17:11:02.981Z'
 title: 'Our Portfolio: '
 author: []
 sourcePath: _posts/2016-06-01-our-portfolio.md
@@ -19,9 +19,7 @@ _type: Article
 ---
 # Our Portfolio: 
 
-Nazrah Films has a notable achievements, award winning projects and movies, their latest successful "Nawar"a (Part 1 of the Trilogy about the Egyptian Revolution)  
-Projects under development:   
-Police & Thieves -- Revolution Tonight - Cross Roads ­‐ A Final Breath ­‐ Grandmas and Zalabya.
+Nazrah Films has a notable achievements, award winning projects and movies, their latest successful "Nawara" (Part 1 of the Trilogy about the Egyptian Revolution)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97541f67-4db7-44bd-88f5-0ea95cac2199.jpg)
 
 "The saga of a poor housemaid in the aftermath of the Tahrir Square uprising brims over with uncomfortable truths and irony, boldly questioning the outcome of the revolution. Led by an angelic Menna Shalabi in the main role, the film is absorbing in a daytime drama sort of way: One longs for the maid and her equally poor husband Aly to find happiness, while knowing that even worse misfortunes are likely to befall them before the curtains close. Despite this and allowing for an overlong running time, it is the Egyptian art film of the moment, and its female viewpoint should help it find limited release, with more festival support following its Dubai bow." By [http://www.hollywoodreporter.com/ ][0].
