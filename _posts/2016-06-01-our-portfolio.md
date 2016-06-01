@@ -4,15 +4,15 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: '"The saga of a poor housemaid in the aftermath of the Tahrir Square uprising brims over with uncomfortable truths and irony, boldly questioning the outcome of the revolution. Led by an angelic Menna Shalabi in the main role, the film is absorbing in a daytime drama sort of way: One longs for the maid and her equally poor husband Aly to find happiness, while knowing that even worse misfortunes are likely to befall them before the curtains close. Despite this and allowing for an overlong running time, it is the Egyptian art film of the moment, and its female viewpoint should help it find limited release, with more festival support following its Dubai bow." By http://www.hollywoodreporter.com/ .  '
-datePublished: '2016-06-01T13:22:48.561Z'
-dateModified: '2016-06-01T13:08:15.077Z'
+description: '"The saga of a poor housemaid in the aftermath of the Tahrir Square uprising brims over with uncomfortable truths and irony, boldly questioning the outcome of the revolution. Led by an angelic Menna Shalabi in the main role, the film is absorbing in a daytime drama sort of way: One longs for the maid and her equally poor husband Aly to find happiness, while knowing that even worse misfortunes are likely to befall them before the curtains close. Despite this and allowing for an overlong running time, it is the Egyptian art film of the moment, and its female viewpoint should help it find limited release, with more festival support following its Dubai bow." By http://www.hollywoodreporter.com/ .'
+datePublished: '2016-06-01T13:43:11.502Z'
+dateModified: '2016-06-01T13:40:22.138Z'
 title: 'Our Portfolio: '
 author: []
+sourcePath: _posts/2016-06-01-our-portfolio.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-01-our-portfolio.md
 url: our-portfolio/index.html
 _type: Article
 
