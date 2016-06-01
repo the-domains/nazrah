@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Nazrah aspires to bridge the gap between Independent filmmakers in Egypt and across the world.
-datePublished: '2016-06-01T11:15:47.551Z'
-dateModified: '2016-05-30T15:28:48.720Z'
+datePublished: '2016-06-01T11:16:20.645Z'
+dateModified: '2016-06-01T11:15:56.038Z'
 title: Our Vision
 author: []
+sourcePath: _posts/2016-06-01-our-vision.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-01-our-vision.md
 url: our-vision/index.html
 _type: Article
 
