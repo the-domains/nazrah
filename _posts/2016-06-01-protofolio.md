@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Recognition: - Best Actress Award in Dubai Cinema Festival 2016 for Menna Shalby Nawara (Part 1 of the Trilogy about the Egyptian Revolution:'
-datePublished: '2016-06-01T12:15:19.135Z'
-dateModified: '2016-06-01T12:14:42.531Z'
+datePublished: '2016-06-01T12:16:28.275Z'
+dateModified: '2016-06-01T12:16:00.505Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-01-protofolio.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-01-protofolio.md
 url: protofolio/index.html
 _type: Article
 
