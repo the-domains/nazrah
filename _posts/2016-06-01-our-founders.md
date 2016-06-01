@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-01T14:22:25.785Z'
-dateModified: '2016-06-01T14:22:19.384Z'
+datePublished: '2016-06-01T18:58:22.355Z'
+dateModified: '2016-06-01T18:57:38.144Z'
 title: 'Our Founders:'
 author: []
 sourcePath: _posts/2016-06-01-our-founders.md
@@ -32,7 +32,7 @@ Is an award winning film director, screenwriter and producer. She obtained her d
 # Taghrid Abdel Maksoud
 
 Vice-President Fulbright Alumni, Director, Writer, Consultant.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf18b0c0-c596-4713-8982-c8782f3f8edf.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eef2fc65-657b-4af2-ad06-7a7fef8a633b.jpg)
 
 Taghrid Abdel Maksoud:  
 Studied Mass Communication and Film at the American University in Cairo. Worked for over fourteen years in the Egyptian Cinema with the most acclaimed film directors in Egypt. Worked as a script continuity supervisor and as a first assistant director in a number of internationally award winning films. Was granted the Fulbright Arts Program where she studied film directing & screenwriting for an academic year in prestigious Film schools in Los Angeles, University of California Los Angeles (UCLA), and New York Film Academy Universal Studios. Wrote and directed the short Films "The Girl in the Black Veil" and "The Moment". Wrote two long feature screenplays awaiting production. Taghrid is the Co-founder and Vice President of Nazrah Film Productions.
