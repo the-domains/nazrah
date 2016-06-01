@@ -4,8 +4,15 @@
         <description><![CDATA[Nazrah Films]]></description>
         <link>http://nazrahfilms.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 13:30:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 13:38:51 GMT</lastBuildDate>
         <atom:link href="http://nazrahfilms.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact Us]]></title>
+            <description><![CDATA[<p>Contact Us:</p>]]></description>
+            <link>http://nazrahfilms.com/contact-us/index.html</link>
+            <guid isPermaLink="false">455cb9d6-77c7-42d5-81e5-9818c353c068</guid>
+            <pubDate>Wed, 01 Jun 2016 13:36:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Our Vision.]]></title>
             <description><![CDATA[<article><h1>Our Vision.</h1><p>"Nazrah aspires to bridge the gap between Independent filmmakers in Egypt and across the world."</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45296da0-08ed-43c3-b05d-d42b1f121a33.jpg"></article>]]></description>
@@ -40,13 +47,6 @@
             <link>http://nazrahfilms.com/our-portfolio/index.html</link>
             <guid isPermaLink="false">b0981fcf-38d5-4625-b0bf-ad20068014a8</guid>
             <pubDate>Wed, 01 Jun 2016 13:22:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact Us]]></title>
-            <description><![CDATA[<p>Contact Us:</p>]]></description>
-            <link>http://nazrahfilms.com/contact-us/index.html</link>
-            <guid isPermaLink="false">455cb9d6-77c7-42d5-81e5-9818c353c068</guid>
-            <pubDate>Wed, 01 Jun 2016 12:35:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
