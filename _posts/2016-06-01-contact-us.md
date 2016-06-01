@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Contact Us:'
-datePublished: '2016-06-01T13:36:59.210Z'
-dateModified: '2016-06-01T13:36:25.157Z'
-title: ''
+datePublished: '2016-06-01T13:37:47.885Z'
+dateModified: '2016-06-01T13:37:43.393Z'
+title: Contact Us
 author: []
 sourcePath: _posts/2016-06-01-contact-us.md
 authors: []
@@ -22,4 +22,6 @@ _type: Article
 
 Contact Us:
 
-Nazrah Films Address: Number 408 - 4th Touristic District, 6th of October City, Egypt. Tel: +2 010 01457588 E-mail: nazrahfilms@gmail.com
+Nazrah Films Address: Number 408 - 4th Touristic District, 6th of October City, Egypt.  
+Tel: +2 010 01457588  
+E-mail: nazrahfilms@gmail.com
