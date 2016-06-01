@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-01T13:27:21.902Z'
-dateModified: '2016-06-01T13:22:07.360Z'
+datePublished: '2016-06-01T14:04:18.951Z'
+dateModified: '2016-06-01T14:03:56.543Z'
 title: 'Our Founders:'
 author: []
+sourcePath: _posts/2016-06-01-our-founders.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-01-our-founders.md
 url: our-founders/index.html
 _type: Article
 
