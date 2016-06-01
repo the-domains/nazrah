@@ -4,8 +4,15 @@
         <description><![CDATA[Nazrah Films]]></description>
         <link>http://nazrahfilms.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 14:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 14:22:29 GMT</lastBuildDate>
         <atom:link href="http://nazrahfilms.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Founders:]]></title>
+            <description><![CDATA[<article><h1>Our Founders:</h1><h2>We are an award-winning team with a long track record of Film Creation.</h2></article>]]></description>
+            <link>http://nazrahfilms.com/our-founders/index.html</link>
+            <guid isPermaLink="false">678f0adf-f92b-4aca-a601-292629c9690f</guid>
+            <pubDate>Wed, 01 Jun 2016 14:22:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Our Vision]]></title>
             <description><![CDATA[<article><h1>Our Vision</h1><p>"Nazrah aspires to bridge the gap between Independent filmmakers in Egypt and across the world."</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45296da0-08ed-43c3-b05d-d42b1f121a33.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>http://nazrahfilms.com/our-portfolio/index.html</link>
             <guid isPermaLink="false">b0981fcf-38d5-4625-b0bf-ad20068014a8</guid>
             <pubDate>Wed, 01 Jun 2016 14:09:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our Founders:]]></title>
-            <description><![CDATA[<article><h1>Our Founders:</h1><h2>We are an award-winning team with a long track record of Film Creation.</h2></article>]]></description>
-            <link>http://nazrahfilms.com/our-founders/index.html</link>
-            <guid isPermaLink="false">678f0adf-f92b-4aca-a601-292629c9690f</guid>
-            <pubDate>Wed, 01 Jun 2016 14:04:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contact Us]]></title>
