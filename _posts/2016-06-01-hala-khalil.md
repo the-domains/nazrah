@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: "Hala Khalil is an award winning film director, screenwriter and producer. She obtained her degree in film directing from the film Egyptian Film Academy in Cairo in 1992. She wrote and directed: Feature Films, short films, documentaries and TV series. In addition to working as an executive producer for several years, her feature film \"Best Of Times\" was chosen among the best 100 Egyptian Films of all times. Her films \"Best of Times\"' and \"Cut and Paste\" were awarded a number of national and International awards. She was chosen as a jury member in a number of National and International Film Festivals in Cairo, New Delhi, and Rotterdam. Hala is the founder and President of Nazrah Film Productions."
-datePublished: '2016-06-01T11:38:37.622Z'
-dateModified: '2016-06-01T11:38:10.007Z'
-title: Hala Khalil
+description: "Founder & President Writer, Director, Producer, Consultant Hala Khalil is an award winning film director, screenwriter and producer. She obtained her degree in film directing from the film Egyptian Film Academy in Cairo in 1992. She wrote and directed: Feature Films, short films, documentaries and TV series. In addition to working as an executive producer for several years, her feature film \"Best Of Times\" was chosen among the best 100 Egyptian Films of all times. Her films \"Best of Times\"' and \"Cut and Paste\" were awarded a number of national and International awards. She was chosen as a jury member in a number of National and International Film Festivals in Cairo, New Delhi, and Rotterdam. Hala is the founder and President of Nazrah Film Productions. "
+datePublished: '2016-06-01T11:39:53.330Z'
+dateModified: '2016-06-01T11:39:53.050Z'
+title: Founders
 author:
   - name: ''
     url: ''
@@ -22,6 +22,7 @@ _type: Article
 # Founders
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/70f235bc85087dc27669371e3000f1031d03a1d6.jpg)
 
+Founder & President Writer, Director, Producer, Consultant  
 Hala Khalil is an award winning film director, screenwriter and producer. She obtained her degree in film directing from the film Egyptian Film Academy in Cairo in 1992\. She wrote and directed: Feature Films, short films, documentaries and TV series. In addition to working as an executive producer for several years, her feature film "Best Of Times" was chosen among the best 100 Egyptian Films of all times. Her films "Best of Times"' and "Cut and Paste" were awarded a number of national and International awards. She was chosen as a jury member in a number of National and International Film Festivals in Cairo, New Delhi, and Rotterdam. Hala is the founder and President of Nazrah Film Productions.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e12d995-5638-4568-81dc-c4c82de286db.jpg)
 
