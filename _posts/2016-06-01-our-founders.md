@@ -1,17 +1,17 @@
 ---
-description: ''
-datePublished: '2016-06-01T20:45:34.992Z'
+inFeed: true
+hasPage: true
 inNav: true
 inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-06-05T12:25:18.109Z'
+dateModified: '2016-06-05T12:24:53.618Z'
 author: []
 sourcePath: _posts/2016-06-01-our-founders.md
-hasPage: true
-authors: []
 title: 'The Founders:'
+authors: []
 publisher: null
-keywords: []
-dateModified: '2016-06-01T20:44:56.274Z'
-inFeed: true
 starred: false
 url: the-founders/index.html
 _type: Article
@@ -31,7 +31,9 @@ Is an award winning film director, screenwriter and producer. She obtained her d
 
 # Taghrid Abdel Maksoud
 
-Vice-President Fulbright Alumni, Director, Writer, Consultant.
+Vice-President of |Nazrah Film Productions
+
+Fulbright Alumni, Director, Writer, Consultant.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eef2fc65-657b-4af2-ad06-7a7fef8a633b.jpg)
 
 Taghrid Abdel Maksoud:  
